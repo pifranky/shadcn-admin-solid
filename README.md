@@ -44,7 +44,7 @@ It keeps the original's pages, layout, styling and behaviour, but every React pi
 ## Run Locally
 
 ```bash
-git clone https://github.com/PideaFrancky/shadcn-admin-solid.git
+git clone https://github.com/pifranky/shadcn-admin-solid.git
 cd shadcn-admin-solid
 npm install
 npm run dev

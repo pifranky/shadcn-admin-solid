@@ -49,7 +49,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PideaFrancky/shadcn-admin-solid.git"
+    "url": "git+https://github.com/pifranky/shadcn-admin-solid.git"
   },
   "keywords": [
     "solidjs",
