@@ -2,6 +2,8 @@
 
 Admin dashboard UI built with **SolidJS**, **Kobalte**, **Tailwind CSS** and **Vite** — a SolidJS port of [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin).
 
+**Live demo:** https://shadcn-admin-solid.pages.dev
+
 It keeps the original's pages, layout, styling and behaviour, but every React piece has been replaced by its Solid counterpart.
 
 ## Features
@@ -57,6 +59,10 @@ npm run build         # type-check + production build
 npm test              # unit tests (vitest)
 npm run format        # prettier
 ```
+
+## Deploy
+
+The live demo is hosted on [Cloudflare Pages](https://pages.cloudflare.com/). It is a static SPA: build with `npm run build` and serve `dist/`. Pages falls back to `index.html` for client-side routes automatically (no `404.html` in the output).
 
 ## Project Structure
 
