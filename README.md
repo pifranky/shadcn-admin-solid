@@ -2,6 +2,8 @@
 
 Admin dashboard UI built with **SolidJS**, **Kobalte**, **Tailwind CSS** and **Vite** — a SolidJS port of [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin).
 
+![Shadcn Admin Solid](public/images/shadcn-admin.png)
+
 **Live demo:** https://shadcn-admin-solid.pages.dev
 
 It keeps the original's pages, layout, styling and behaviour, but every React piece has been replaced by its Solid counterpart.
